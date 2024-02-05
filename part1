@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Compliance Monitoring Report</title>
+  <style>
+    /* Add your custom styles here for formatting and aesthetics 
+  </style>
+</head>
+<body>
+  <h1>Compliance Monitoring Report</h1>
+  <h2>Executive Summary</h2>
+  <p>Summarize key findings, potential risks, and recommended actions in a concise paragraph.</p>
+  <h2>Detailed Analysis</h2>
+  <h3>Areas of Compliance</h3>
+  <ul>
+    <li>List each monitored compliance area (e.g., data security, financial regulations).</li>
+    <li>For each area, provide:</li>
+      <ul>
+        <li>**Metrics:** Trackable measures of compliance (e.g., incident rate, control implementation).</li>
+        <li>**Trends:** Show positive or negative trends over time using charts or graphs.</li>
+        <li>**Insights:** Explain the meaning of trends and potential implications.</li>
+      </ul>
+  </ul>
+  <h2>Actionable Insights</h2>
+  <ul>
+    <li>List specific recommendations for improvement for each compliance area.</li>
+    <li>Include responsible parties and deadlines for each recommendation.</li>
+  </ul>
+  <h2>Data Sources and Methodology</h2>
+  <p>Describe the data sources used for analysis and the methodology employed.</p>
+  <h2>Appendix</h2>
+  </body>
+</html >
+*/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Compliance Monitoring Report - Q4 2023</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <style>
+    /* Add custom styles here (optional) */
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="row mb-4">
+      <div class="col-12">
+        <h1>Compliance Monitoring Report on system logs</h1>
+        <h4>Q4 2023</h4>
+      </div>
+    </header>
+    <div class="row">
+      <div class="col-md-8">
+        <h2>Executive Summary</h2>
+        <p> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </div>
+      <div class="col-md-4">
+        <div class="card bg-light mb-3">
+          <div class="card-header">Key Findings</div>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item"><span class="badge bg-success">✔</span> 98% adherence to data security policies</li>
+            <li class="list-group-item"><span class="badge bg-warning">!</span> Increase in financial reporting errors</li>
+            <li class="list-group-item"><span class="badge bg-primary">•</span> New environmental regulations implemented successfully</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <hr>
+    </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>
+
